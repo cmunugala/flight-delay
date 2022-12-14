@@ -12,5 +12,5 @@ In Model_building, we have our scripts for the different models that we created,
 
 The cross_validation_notebook folder contains scripts to implement our custom broken window cross validation strategy which is fitting for the time-series nature of our data. 
 
-Finally, the Final_Report.py walks through the project and all of design choices and results. 
+Finally, the Final_Report walks through the project and all of design choices and results. 
 
