@@ -1,6 +1,6 @@
 # flight-delay
 
-In this project, me and my team (Ahmad Azizi, Kolby Devery, and Evan Chan) used large-scale flight and weather data to predict whether or not a flight would be delayed based on information two hours before the flight departure. 
+In this project, me and my team (Ahmad Azizi, Kolby Devery, and Evan Chan) used large-scale flight and weather data to predict whether or not a flight would be delayed based on information two hours before the flight departure. Because the datasets were large, we were forced to use Spark for cleaning and feature engineering. 
 
 Code was written in DataBricks notebooks in Python, PySpark, and SQL. 
 
